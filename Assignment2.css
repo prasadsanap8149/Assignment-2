@@ -1,0 +1,48 @@
+.row div
+{
+margin: 0px;
+border-width: 1px;
+border-style: solid;
+/* height:100px; */
+
+}
+.col-lg-8,.col-lg-4{
+    height: 50px;
+}.col-lg-3{
+    height: 100px;
+}
+
+
+.col-lg-12{
+    height: 40px;
+}
+.col-xs-12{
+    height: 40px;
+}
+.container
+{
+background: rgb(255, 255, 255);
+}
+.row div
+{
+margin: 0px;
+border-width: 1px;
+border-style: solid;
+/* height:100px; */
+
+}
+.menubar,.footer{
+   height: 30px;
+}
+.content{
+   height: 100px;
+}
+.header,.logo{
+   height: 50px;
+}
+.container{
+    background: rgb(255, 255, 255);
+}
+.imageSlider{
+    height: 70px;
+}
